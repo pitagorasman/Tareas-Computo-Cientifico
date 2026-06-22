@@ -6,9 +6,9 @@ Bienvenido al repositorio de los talleres de Computo Científico.
 Los archivos están organizados cronológicamente los proyectos:
 
 * **Tarea_01:** 
-    * Abrir en Colab 
+     * https://colab.research.google.com/drive/1pU7xHDDddUMSeEjX-ZiAQ63L9O4g-b4W
 * **Tarea_02:** 
-    * [Abrir en Colab](https://colab.research.google.com/drive/1y0moctPpgELkutDlNAOWRuDM37sspq3O)
+     * (https://colab.research.google.com/drive/1y0moctPpgELkutDlNAOWRuDM37sspq3O)
 * **Tarea_03:**  
-    * [Abrir en Colab]https://colab.research.google.com/drive/1w02QFoaplj79a2MadrDErKrFXMiFyhAY#scrollTo=B7Qd6a7fe6k3
+     * https://colab.research.google.com/drive/1w02QFoaplj79a2MadrDErKrFXMiFyhAY#scrollTo=B7Qd6a7fe6k3
 

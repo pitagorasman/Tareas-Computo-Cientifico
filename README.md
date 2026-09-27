@@ -13,5 +13,6 @@ Los archivos están organizados cronológicamente los proyectos:
      * https://colab.research.google.com/drive/1w02QFoaplj79a2MadrDErKrFXMiFyhAY#scrollTo=B7Qd6a7fe6k3
 * **Tarea_04:**
      * https://colab.research.google.com/drive/17xOTjgnZ0nVazSAwnoxszuFoaxR0wQYs#scrollTo=Xjo_j8msiOBO
-  
+* **Tarea_05:**
+     * https://colab.research.google.com/drive/1jZpY1QA8hE7fIrGN0gqO9UhAS-Esy1nL#scrollTo=4sn456wce0Vr
 
